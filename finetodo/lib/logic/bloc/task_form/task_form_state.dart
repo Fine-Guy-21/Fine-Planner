@@ -1,37 +1,3 @@
-// part of 'task_form_bloc.dart';
-
-// abstract class TaskFormState {
-//   const TaskFormState();
-// }
-
-// // for accepting a new user input which (add task)
-// class TaskFormReadyState extends TaskFormState {
-//   const TaskFormReadyState();
-// }
-
-// // for initializing a pre-exisiting task (edit task)
-// class TaskFormLoadingState extends TaskFormState {
-//   final TaskModel initialTask;
-//   const TaskFormLoadingState({required this.initialTask});
-// }
-
-// /// State indicating that form data is being processed/saved.
-// class TaskFormSubmittingState extends TaskFormState {
-//   const TaskFormSubmittingState();
-// }
-
-// /// State for successful form submission.
-// class TaskFormSuccessState extends TaskFormState {
-//   final String successMessage;
-//   const TaskFormSuccessState({required this.successMessage});
-// }
-
-// /// State for failed form submission or failed loading of initial data.
-// class TaskFormFailureState extends TaskFormState {
-//   final String errorMessage;
-//   const TaskFormFailureState({required this.errorMessage});
-// }
-
 part of 'task_form_bloc.dart';
 
 abstract class TaskFormState {
