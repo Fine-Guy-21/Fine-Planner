@@ -6,7 +6,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:finetodo/logic/bloc/task/task_bloc.dart';
 import 'package:finetodo/logic/bloc/theme/theme_bloc.dart';
 
-import 'package:finetodo/presentation/ui/task_page.dart';
+import 'package:finetodo/presentation/screens/task_page.dart';
 import 'package:finetodo/presentation/widgets/calendar_widget.dart';
 import 'package:finetodo/presentation/widgets/dashboard_widget.dart';
 import 'package:finetodo/presentation/widgets/settings_widget.dart';

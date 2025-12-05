@@ -8,7 +8,7 @@ import 'logic/bloc/task/task_bloc.dart';
 import 'logic/bloc/category/category_bloc.dart';
 import 'logic/bloc/theme/theme_bloc.dart';
 import 'logic/bloc/api_bloc.dart';
-import 'presentation/screens/splash_screen.dart';
+import 'splash_screen.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
 
 void main() async {
